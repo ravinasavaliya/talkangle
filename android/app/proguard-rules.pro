@@ -1,0 +1,3 @@
+-keep class com.hiennv.flutter_callkit_incoming.** { *; }
+-keep class io.agora.** { *; }
+-keepattributes *Annotation*

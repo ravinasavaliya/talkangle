@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177121771573",
+    "project_id": "talk-angels",
+    "storage_bucket": "talk-angels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177121771573:android:99f0dabcdd2368d9a3317c",
+        "android_client_info": {
+          "package_name": "com.talkangels.talkangels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHdk6Qh7TAW-SubcpakNMRrs2w149i_Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
